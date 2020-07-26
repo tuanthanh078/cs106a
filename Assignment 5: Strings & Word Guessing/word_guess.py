@@ -1,7 +1,8 @@
 """
 File: word_guess.py
 -------------------
-Fill in this comment.
+This program uses strings to play a word guessing game (similar to the
+game Hangman, if you're familiar with that game).
 """
 
 import random

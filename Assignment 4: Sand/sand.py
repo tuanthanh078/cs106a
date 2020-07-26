@@ -2,7 +2,7 @@
 
 """
 Stanford CS106A Sand Project
-Add additional comments here.
+This program uses 2-dimensional lists to simulate falling sand.
 """
 
 import sys
